@@ -1,4 +1,4 @@
-# Aplikasi Inventaris Bunga Mart
+# Aplikasi Inventaris Responsi 2 Mobile
 
 **Nama:** Bunga Devina Firdaus  
 **NIM:** H1D023051  
