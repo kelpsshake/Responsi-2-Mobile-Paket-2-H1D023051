@@ -91,6 +91,3 @@ Mengelola data inventaris:
 - Menampilkan detail item  
 - Tombol Edit → menuju `InventoryForm` dengan data item  
 - Tombol Hapus → memanggil `InventoryBloc.delete()`  
- 
-   ```bash
-   git clone https://github.com/username/nama-repo.git
